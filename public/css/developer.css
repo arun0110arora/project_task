@@ -1,0 +1,37 @@
+.project-list-heading{
+    padding: 10px;
+}
+
+.btn {
+    display: block;
+    max-width: 200px;
+    height: auto;
+    background: #4E9CAF;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
+    height: auto;
+}
+
+.btn-create-project{
+    margin: 20px;
+}
+
+.heading{
+    text-align: center;
+}
+
+.project-form{
+    margin: 40px;
+}
+
+.alert-info{
+    color: green;
+}
+
+.btn-create-task{
+    max-width: 100px;
+}
